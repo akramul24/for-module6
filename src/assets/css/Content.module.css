@@ -1,0 +1,54 @@
+.content{
+    margin-top:100px;
+    height: 500px;
+    background-color: rgb(144, 117, 168);
+}
+    
+.btn{
+    width: 1140px;
+    height: 200px;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.txt{
+    width: 1140px;
+    height: 200px;
+    margin: auto;
+    color: rgb(3, 0, 19);
+    font-size: large;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.button{
+ 
+ width: 200px;
+ height: 40px;
+ margin-bottom: 10px;
+ padding: px;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ background-color: blue;
+ border: none;
+ border-radius: 5px;
+ color: bisque;
+ font-size: large;
+ text-transform: uppercase;
+ transition: 0.4s;
+ cursor: pointer;
+}
+
+.button:hover{
+    background-color: rgb(27, 13, 13);
+    color: rgb(198, 198, 204);
+}
+
+    
+
